@@ -2,3 +2,4 @@
 set -eu
 
 echo "NetAuto-Bootcamp"
+# guard against empty input
