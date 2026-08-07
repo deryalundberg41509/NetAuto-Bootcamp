@@ -33,3 +33,4 @@ Notes and usage details for NetAuto-Bootcamp.
 - clarify the setup steps
 - fix a small wording issue
 - add a note about the defaults
+- fix a small wording issue
